@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav Panade
+# Hi, I'm Vaibhav Pande
 
 Data Engineer at Tata Consultancy Services (TCS)
 
@@ -14,17 +14,19 @@ Building scalable data platforms and ETL/ELT pipelines using Python, SQL, PySpar
 | -------- | ---------------------------------------------------- |
 | LinkedIn | https://www.linkedin.com/in/vaibhav-panade-b05b7b209 |
 | GitHub   | https://github.com/vaibhav-5-7                       |
+| LeetCode | https://leetcode.com/u/vaibhav_5_7/                  |
 | X        | https://x.com/vaibhav_5_7                            |
 
 ---
 
 ## About Me
 
-* Currently working as a Data Engineer at Tata Consultancy Services (TCS)
-* Experienced in building ETL/ELT pipelines and cloud-based data solutions
-* Working with Databricks, Azure Data Factory (ADF), PySpark, Apache Airflow, and AWS
-* Interested in Data Engineering, Data Modeling, Data Warehousing, and Distributed Data Processing
+* Data Engineer at Tata Consultancy Services (TCS)
 * AWS Certified Data Engineer – Associate
+* Building ETL/ELT pipelines and cloud-based data platforms
+* Experienced with Azure Data Factory (ADF), Databricks, PySpark, Apache Airflow, AWS, and Data Warehousing
+* Actively solving Data Structures & Algorithms and SQL problems on LeetCode
+* Interested in Data Engineering, Big Data, Distributed Systems, and Cloud Architecture
 
 ---
 
@@ -77,6 +79,22 @@ AWS S3, Lambda, Athena, API Gateway
 
 ---
 
+## LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vaibhav_5_7?theme=light\&font=Baloo\&ext=heatmap)](https://leetcode.com/u/vaibhav_5_7/)
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-5-7\&show_icons=true\&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-5-7\&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-5-7)
+
+---
+
 ## Currently Learning
 
 * Advanced SQL
@@ -84,14 +102,6 @@ AWS S3, Lambda, Athena, API Gateway
 * Data Engineering System Design
 * Distributed Data Processing
 * Data Structures and Algorithms
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-5-7\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-5-7\&layout=compact)
 
 ---
 
