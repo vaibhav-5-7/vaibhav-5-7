@@ -1,44 +1,98 @@
-# Hi there 👋 I'm Vaibhav 
+# Hi, I'm Vaibhav Panade
 
-🚀 Data Engineer at Tata Consultancy Services (TCS) with 2+ years of experience building scalable ETL/ELT pipelines, data platforms, and analytics solutions.
+Data Engineer at Tata Consultancy Services (TCS)
 
-💡 Passionate about transforming raw data into reliable, business-ready insights using modern Data Engineering technologies.
+AWS Certified Data Engineer – Associate
 
-### 🔧 Tech Stack
+Building scalable data platforms and ETL/ELT pipelines using Python, SQL, PySpark, Databricks, Azure Data Factory (ADF), Apache Airflow, and AWS services.
 
-* Python
-* SQL
-* PySpark
-* Databricks
-* Azure Data Factory (ADF)
-* Apache Airflow
-* AWS (S3, Glue, Lambda, Redshift)
-* Data Warehousing
-* ETL / ELT Pipelines
-* Data Modeling
+---
 
-### 📈 What I'm Currently Working On
+## Connect With Me
 
-* Building Data Engineering projects with Databricks and PySpark
-* Advanced SQL and Data Modeling
-* Apache Airflow orchestration
-* Cloud Data Platforms (AWS & Azure)
-* Data Structures & Algorithms for Product Companies
+| Platform | Link                                                 |
+| -------- | ---------------------------------------------------- |
+| LinkedIn | https://www.linkedin.com/in/vaibhav-panade-b05b7b209 |
+| GitHub   | https://github.com/vaibhav-5-7                       |
+| X        | https://x.com/vaibhav_5_7                            |
 
-### 🏆 Certifications
+---
+
+## About Me
+
+* Currently working as a Data Engineer at Tata Consultancy Services (TCS)
+* Experienced in building ETL/ELT pipelines and cloud-based data solutions
+* Working with Databricks, Azure Data Factory (ADF), PySpark, Apache Airflow, and AWS
+* Interested in Data Engineering, Data Modeling, Data Warehousing, and Distributed Data Processing
+* AWS Certified Data Engineer – Associate
+
+---
+
+## Tech Stack
+
+| Category         | Technologies                                                  |
+| ---------------- | ------------------------------------------------------------- |
+| Languages        | Python, SQL, PySpark, Spark SQL                               |
+| Data Engineering | Azure Data Factory (ADF), Databricks, Apache Airflow, ETL/ELT |
+| AWS              | S3, Glue, Lambda, Redshift, IAM, EMR                          |
+| Azure            | Azure Data Factory, Azure Blob Storage                        |
+| Big Data         | Apache Spark, PySpark, Delta Lake                             |
+| Data Warehousing | Star Schema, Snowflake Schema, SCD Type 1/2                   |
+| Tools            | Git, Data Modeling, Data Quality Validation                   |
+
+---
+
+## Core Skills
+
+| Area             | Skills                                               |
+| ---------------- | ---------------------------------------------------- |
+| Data Engineering | ETL/ELT Pipelines, Data Warehousing, Data Modeling   |
+| Programming      | Python, SQL, PySpark, Spark SQL                      |
+| Cloud            | AWS (S3, Glue, Lambda, Redshift, IAM), Azure         |
+| Data Platforms   | Databricks, Azure Data Factory (ADF), Apache Airflow |
+| Big Data         | Apache Spark, Delta Lake                             |
+| Database         | SQL Optimization, Query Performance Tuning           |
+
+---
+
+## Certifications
 
 * AWS Certified Data Engineer – Associate
 
-### 🌱 Currently Learning
+---
 
-* Spark Performance Optimization
-* Lakehouse Architecture
+## Featured Projects
+
+### Enterprise Data Lakehouse Engine
+
+Databricks, PySpark, Delta Lake, Medallion Architecture
+
+### Fraud Risk Analysis Data Pipeline
+
+AWS S3, Lambda, Athena, Apache Airflow
+
+### Spotify AWS Data Engineering Pipeline
+
+AWS S3, Lambda, Athena, API Gateway
+
+---
+
+## Currently Learning
+
+* Advanced SQL
+* Spark Optimization
+* Data Engineering System Design
 * Distributed Data Processing
-* Advanced Data Engineering System Design
+* Data Structures and Algorithms
 
-### 📫 Connect With Me
+---
 
-* LinkedIn: [www.linkedin.com/in/vaibhav-panade-b05b7b209](http://www.linkedin.com/in/vaibhav-panade-b05b7b209)
-* GitHub: github.com/vaibhav-5-7
+## GitHub Stats
 
-"Turning data into scalable, reliable, and impactful solutions."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-5-7\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-5-7\&layout=compact)
+
+---
+
+"Turning raw data into scalable, reliable, and impactful data products."
