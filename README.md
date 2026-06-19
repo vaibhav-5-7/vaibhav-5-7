@@ -96,10 +96,6 @@ AWS S3, Lambda, Athena, API Gateway
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-5-7\&show_icons=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-5-7\&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-5-7)
-
 ---
 
 ## Currently Learning
