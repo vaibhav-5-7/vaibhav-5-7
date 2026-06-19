@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vaibhav Pande
+# Hi there 👋 I'm Vaibhav 
 
 🚀 Data Engineer at Tata Consultancy Services (TCS) with 2+ years of experience building scalable ETL/ELT pipelines, data platforms, and analytics solutions.
 
