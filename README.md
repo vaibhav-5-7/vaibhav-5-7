@@ -7,9 +7,8 @@
 
 # Hi, I'm Vaibhav Panade
 
-Data Engineer at Tata Consultancy Services (TCS)
+Data Engineer at ZS
 
-AWS Certified Data Engineer – Associate
 
 Building scalable data platforms and ETL/ELT pipelines using Python, SQL, PySpark, Databricks, Azure Data Factory (ADF), Apache Airflow, and AWS services.
 
