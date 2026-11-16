@@ -27,10 +27,9 @@ Building scalable data platforms and ETL/ELT pipelines using Python, SQL, PySpar
 
 ## About Me
 
-* Data Engineer at Tata Consultancy Services (TCS)
-* AWS Certified Data Engineer – Associate
+* Data Engineer at ZS
 * Building ETL/ELT pipelines and cloud-based data platforms
-* Experienced with Azure Data Factory (ADF), Databricks, PySpark, Apache Airflow, AWS, and Data Warehousing
+* Experienced with Databricks, PySpark, Apache Airflow, AWS, and Data Warehousing
 * Actively solving Data Structures & Algorithms and SQL problems on LeetCode
 * Interested in Data Engineering, Big Data, Distributed Systems, and Cloud Architecture
 
